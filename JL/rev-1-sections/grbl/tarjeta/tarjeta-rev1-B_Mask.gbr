@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
+%TF.CreationDate,2023-11-15T14:15:31+01:00*%
+%TF.ProjectId,tarjeta-rev1,7461726a-6574-4612-9d72-6576312e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2023-11-15 14:15:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,2.286000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X585900000Y-161100000D03*
+X586100000Y-210600000D03*
+X665600000Y-161000000D03*
+X665600000Y-210500000D03*
+%TD*%
+M02*
